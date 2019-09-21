@@ -5,8 +5,7 @@
 
 using namespace std;
 
-class Person
-{
+class Person{
 public:
     std::string name;
     int given;
